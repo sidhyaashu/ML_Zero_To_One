@@ -1,0 +1,52 @@
+Regression is used when the target variable is continuous and you want to predict a quantity. The target variable can take any value within a range and is typically numerical.
+
+
+Use regression when:
+Predicting continuous values: When you need to predict outcomes that are numbers within a continuous range, such as temperature, salary, or price.
+Estimating quantities: When the goal is to estimate a value based on the relationship between variables, such as predicting the future sales of a product based on past sales data.
+Trend analysis: When you want to understand trends or the effect of certain variables on a continuous outcome, such as how changes in marketing spend affect revenue.
+
+
+Examples of regression problems:
+Predicting house prices based on features like size, location, and age.
+Forecasting stock prices.
+Estimating the amount of rainfall.
+
+
+
+
+
+Regression Algorithms and Use Cases:
+
+1. Linear Regression (L)
+Use Case: Predicting house prices based on features like size, location, and number of bedrooms.
+Description: A basic regression algorithm that models the relationship between the dependent variable and one or more independent variables using a linear equation.
+
+2. Polynomial Regression (N-L)
+Use Case: Modeling the growth of bacteria in a petri dish over time, where the growth rate changes.
+Description: An extension of linear regression where the relationship between the independent variable and the dependent variable is modeled as an nth degree polynomial.
+
+3. Support Vector Regression (SVR) (N-L)
+Use Case: Predicting the electricity consumption based on past consumption data.
+Description: Uses the principles of Support Vector Machines (SVM) to perform regression, finding a hyperplane that best fits the data.
+
+4. Decision Tree Regression (N-L)
+Use Case: Estimating the value of a property based on features like location, size, and condition.
+Description: Splits the data into subsets based on feature values, resulting in a tree where each leaf node represents a regression value.
+
+5. Random Forest Regression (N-L)
+Use Case: Predicting future sales of a retail store based on historical sales data.
+Description: An ensemble method that combines multiple decision tree regressors to improve accuracy and control over-fitting.
+
+6. Gradient Boosting Regression (N-L)
+Use Case: Forecasting weather conditions such as temperature and precipitation.
+Description: An ensemble technique that builds models sequentially, each new model correcting errors made by the previous ones.
+
+7. Neural Networks (Deep Learning) (N-L)
+Use Case: Predicting stock prices based on historical data and market indicators.
+Description: Deep learning models, such as feedforward neural networks, can capture complex relationships between features to predict continuous outcomes.
+
+8. K-Nearest Neibours Regression (N-L)
+9. Multi-Linear Regression (L)
+10. Lasso Regression (L)
+11. Ridge Regression (L)
