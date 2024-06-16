@@ -1,1 +1,4 @@
 Distribution and non Distribution
+lesso & rigde
+confusion matrix
+data Imbalancing
