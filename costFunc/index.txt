@@ -1,0 +1,10 @@
+# Types of cost function
+1. Regression cost function
+    MSE (Mean Square Error),
+    RMSE (Root Mean Square Error),
+    MAE (Mean Absolute Error),
+    R**2 Accuracy
+
+2. Classification cost function
+    Binary Classification Cost Function,
+    Multi-Class Classification Cost Function
