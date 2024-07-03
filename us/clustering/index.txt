@@ -43,6 +43,8 @@ Description: Builds a hierarchy of clusters by either agglomerative (bottom-up) 
 Use Case: Anomaly detection in spatial data.
 Description: Finds clusters of varying shapes and sizes by looking for areas of high density, effectively identifying outliers as noise.
 
+#PCA & Apriori
+
 # Gaussian Mixture Models (GMM)
 Use Case: Image segmentation.
 Description: Models the data as a mixture of several Gaussian distributions, allowing for soft clustering where each data point can belong to multiple clusters with different probabilities.
